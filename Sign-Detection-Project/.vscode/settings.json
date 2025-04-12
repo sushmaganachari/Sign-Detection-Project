@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "argmax",
+        "astype",
+        "COVERSION",
+        "cropframe",
+        "crossentropy",
+        "dtype",
+        "Glorot",
+        "imread",
+        "imshow",
+        "imwrite",
+        "keras",
+        "keypoints",
+        "lstm",
+        "mediapipe",
+        "numpy",
+        "opencv",
+        "relu",
+        "sklearn",
+        "softmax",
+        "tensorboard",
+        "writeable"
+    ]
+}
